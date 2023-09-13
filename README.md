@@ -1,8 +1,3 @@
-# exa is unmaintained, use the [fork eza](https://github.com/eza-community/eza) instead.
-
-(This repository isn’t archived because the only person with the rights to do so is unreachable).
-
----
 
 <div align="center">
 
